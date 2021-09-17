@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/restaurant-menu-react-redux-app/static/css/main.87cc6ae1.chunk.css",
+    "main.js": "/restaurant-menu-react-redux-app/static/js/main.436687ff.chunk.js",
+    "main.js.map": "/restaurant-menu-react-redux-app/static/js/main.436687ff.chunk.js.map",
+    "runtime-main.js": "/restaurant-menu-react-redux-app/static/js/runtime-main.fb68630c.js",
+    "runtime-main.js.map": "/restaurant-menu-react-redux-app/static/js/runtime-main.fb68630c.js.map",
+    "static/js/2.802244c1.chunk.js": "/restaurant-menu-react-redux-app/static/js/2.802244c1.chunk.js",
+    "static/js/2.802244c1.chunk.js.map": "/restaurant-menu-react-redux-app/static/js/2.802244c1.chunk.js.map",
+    "index.html": "/restaurant-menu-react-redux-app/index.html",
+    "static/css/main.87cc6ae1.chunk.css.map": "/restaurant-menu-react-redux-app/static/css/main.87cc6ae1.chunk.css.map",
+    "static/js/2.802244c1.chunk.js.LICENSE.txt": "/restaurant-menu-react-redux-app/static/js/2.802244c1.chunk.js.LICENSE.txt",
+    "static/media/food-bg.fd26761e.jpg": "/restaurant-menu-react-redux-app/static/media/food-bg.fd26761e.jpg",
+    "static/media/shopping-cart-solid.f0d47d21.svg": "/restaurant-menu-react-redux-app/static/media/shopping-cart-solid.f0d47d21.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb68630c.js",
+    "static/js/2.802244c1.chunk.js",
+    "static/css/main.87cc6ae1.chunk.css",
+    "static/js/main.436687ff.chunk.js"
+  ]
+}
