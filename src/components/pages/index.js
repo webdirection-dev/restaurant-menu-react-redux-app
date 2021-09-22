@@ -1,7 +1,9 @@
-import MainPage from './main-page';
-import CartPage from './cart-page';
+import MainPage from './main-page.jsx';
+import CartPage from './cart-page.jsx';
+import {NotFound} from "./notFound";
 
 export {
     MainPage,
-    CartPage
+    CartPage,
+    NotFound
 };
