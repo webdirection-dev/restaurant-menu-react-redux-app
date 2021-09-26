@@ -13,6 +13,10 @@ import './index.scss';
 
 const restoService = new RestoService();
 
+// Provider store={store} - из react-redux
+// ErrorBoundry - граница ошибок
+// RestoServiceContext.Provider - встроенная в React функция
+// Router - bp react-router-dom для ссылок
 
 ReactDOM.render(
     <Provider store={store}>
@@ -24,5 +28,6 @@ ReactDOM.render(
             </RestoServiceContext.Provider>
         </ErrorBoundry>
     </Provider>
-    , document.getElementById('root'));
+    , document.getElementById('root')
+);
 
